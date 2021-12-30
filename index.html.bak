@@ -13,7 +13,7 @@
 <p>This line is here to how merging works</p>
 =======
 <p>A new line in our file!</p>
-<div><img src="img_hello_git.png" alt="Hello Git" style="width:100%;max-width:640px"></div>
+<div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
 >>>>>>> hello-world-images
 
 </body>
